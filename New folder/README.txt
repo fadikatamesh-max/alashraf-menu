@@ -1,1 +1,0 @@
-Upload to GitHub Pages/Netlify. Replace QR with your final URL.
